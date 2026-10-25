@@ -156,4 +156,3 @@ Follow this journey during the Hackathon demonstration:
 - **Venue**: Zaitoon Ashraf IT Park
 - **Submission Portal**: [https://lms.saylaniit.com/](https://lms.saylaniit.com/)
 - **License**: MIT
-"# HCM-Lite-Brief-1" 
